@@ -41,8 +41,8 @@ To set up the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/theofanistzoumakas/academic_assignment_and_recording_app.git
-   cd academic_assignment_and_recording_app
+   git clone https://github.com/kpavlis/academic-assignment-and-recording-app.git
+   cd academic-assignment-and-recording-app
 2. **Open the project in Visual Studio 2022** using the `.sln` file
 3. **Confirm that the following NuGet packages are installed:**
     - Microsoft.EntityFrameworkCore.SqlServer (version **9.0.9**)

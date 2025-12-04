@@ -15,13 +15,13 @@
 -	Add an application for a task
 ### ⚙️ Administrator Functionality
 -	See all the teacher and student profiles
--	Ban or un-ban any teacher or student profile.
+-	Ban or un-ban any teacher or student profile
 ### 💼 Teacher Functionality
 -	See all courses
--	For each course, see all subjects.
--	For each subject, see all tasks.
--	For the teacher’s registered courses, add new or delete existed personal or team subjects.
--	For the teacher’s registered courses, add new or delete existed tasks.
+-	For each course, see all subjects
+-	For each subject, see all tasks
+-	For the teacher’s registered courses, add new or delete existed personal or team subjects
+-	For the teacher’s registered courses, add new or delete existed tasks
 
 ## 🎯 Purpose
 The purpose of this project is to develop a functional web application that allows teachers to upload assignments with a specific deadline, students to submit an application and specify if it is individual or group work. **It is developed solely for academic and research purposes**.
@@ -57,8 +57,8 @@ To set up the project locally:
 
 5. **Install** PgAdmin.
     - Update the connection string in appsettings.json and LabDBContext.cs (Models folder) to match PgAdmin
-    - Run the provided SQL script database_schema.sql to initialize the schema and seed data.
-    - In database, manually increament the id value as required and save the changes.
+    - Run the provided SQL script database_schema.sql to initialize the schema and seed data
+    - In database, manually increament the id value as required and save the changes
 
 7. **Run** the web application from  Visual Studio
 
